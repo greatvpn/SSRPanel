@@ -2,4 +2,4 @@
 *.css linguist-language=php
 *.scss linguist-language=php
 *.html linguist-language=php
-CHANGELOG.md export-ignore
+CHANGELOG.md export-ignoreff
